@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Gill Sans',sans-serif;
+  src: url('Inter.ttf') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+body{
+  text-align: center;
+  padding: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+
+}
+div,redessociais{
+background-color:#ECEEF1;
+}
+
+
+.qrcode{
+  padding-right: 70px;
+  display:flex
+}
+
+footer{
+  
+background-color:#D9D9D9;
+
+}
